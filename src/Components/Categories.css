@@ -1,0 +1,41 @@
+.Cate {
+    background-color: #e6f0f3;
+    height: 67vh;
+    margin-top: 72px;
+    padding-bottom: 80px;
+}
+
+@media (max-width: 576px) {
+    .Cate {
+       height: 100vh; 
+    }
+}
+
+
+.uList {
+    margin-left: -39px;
+}
+.uList li {
+    list-style: none;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.guide-img {
+    border-radius: 129px;
+    width: 117px;
+}
+
+.carrd {
+   
+    max-width: 35rem;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.customCate{
+    margin-bottom: 10px;
+}

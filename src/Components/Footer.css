@@ -1,0 +1,14 @@
+.footer {
+    background-color: black; 
+    padding: 1px 5px;
+    text-align: center;
+}
+
+.aloha-text {
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Dancing Script', cursive;
+    font-size: 33px;
+    color: #f7f7f7;
+    margin-right: 75rem;
+}
+
